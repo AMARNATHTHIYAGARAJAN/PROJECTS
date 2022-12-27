@@ -1,0 +1,129 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color:#fff ;
+    margin: 0%;
+    padding: 0%;
+}
+/* HEADER */
+header{
+    width: 100;
+    margin: 0%;
+    background-color: #59c1bd;
+    padding:10px 0 ;
+
+}
+header ul{
+    padding: 0%;
+    list-style: none;
+    text-align: right;
+    padding-right: 10px;
+}
+header li {
+    display: inline-block;
+
+}
+header a{
+    color: #00f;
+    text-decoration: none;
+    font-size: 20px;
+    text-align: right;
+    padding: 10px;
+
+}
+/* SECTION */
+
+.middle-container {
+
+margin: 50px;
+
+}
+.profile {
+padding: 60px 0 100px 0;
+}
+.Skills{
+position: absolute;
+top: 700px;
+left: 260px;
+}
+.skill-row {
+    margin: 100px auto;
+}
+.computer{
+    float: left;
+    margin-right: 20px ;
+    line-height: 4;
+    text-align: right;
+    bottom: 80px;
+    position: relative;
+    border: 20px;
+    margin: 20px;
+    left: 10px;
+    padding: 20px;
+}
+.javascript{
+float: right;
+margin-left: 20px;
+line-height: 4;
+text-align: right;
+position: relative;
+bottom: 75px;
+margin: 20px;
+border: 20;
+padding: 20px;
+}
+.contact-me{
+    position: relative;
+    top: 750px;
+}
+.btn{
+    color: #00abb3;
+}
+/* FOOTER */
+.footer{
+    width:100%;
+}
+.bottom-container{
+    background-color: #59c1bd;
+    text-align: center;
+    color: #00f;
+    padding-top: 20px;
+    position: absolute;
+    width: 100%;
+    top: 1600px;
+    left: 0px;
+    right: 0px;
+}
+/* HTML ELEMENT */
+h1{
+    color: #00abb3;
+    line-height: 2;
+
+}
+h2{
+    color: #00abb3;
+    line-height: 2;
+    padding-bottom: 10px;
+}
+h3{
+    color: #00abb3;
+
+}
+p{
+    font-family: 'montserrat',sans-serif;
+}
+a{
+    color: #ffff;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #d3d3d3;
+    border-width: 5px;
+    width: 5%;
+}
+.hr2{
+position: relative;
+left: 15px;
+top: 680px;
+}
